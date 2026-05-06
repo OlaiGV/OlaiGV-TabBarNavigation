@@ -10,6 +10,12 @@ Componente reutilizable perfecto para dashboards, aplicaciones móviles web e in
 - ✅ **Componente Reutilizable**: Fácil de integrar en cualquier proyecto
 - ✅ **Performance**: Animaciones optimizadas
 
+## 🔗 Live Demo
+
+👉 [View on GitHub Pages](https://olaigv.github.io/GSAP-ScrollHorizontal/)
+
+---
+
 ## 🚀 Cómo Usar
 
 ### 1. Clonar o descargar el proyecto
