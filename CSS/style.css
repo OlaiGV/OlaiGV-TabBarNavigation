@@ -87,3 +87,9 @@ nav .tubelight .light-ray {
   );
   pointer-events: none;
 }
+
+/* Ocultar definiciones de SVG */
+.svg-defs {
+  display: none;
+}
+
