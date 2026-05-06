@@ -12,7 +12,7 @@ Componente reutilizable perfecto para dashboards, aplicaciones móviles web e in
 
 ## 🔗 Live Demo
 
-👉 [View on GitHub Pages](https://olaigv.github.io/GSAP-ScrollHorizontal/)
+👉 [View on GitHub Pages](https://olaigv.github.io/OlaiGV-TabBarNavigation/)
 
 ---
 
